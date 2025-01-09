@@ -1,0 +1,1 @@
+This is the the landing page project from the Odin Project.  This project will be all HTML and CSS. Using Flexbox and many other CSS stylings. 
